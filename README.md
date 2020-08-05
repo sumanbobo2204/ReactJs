@@ -1,1 +1,1 @@
-# JavaScript example files
+# React JS projects
