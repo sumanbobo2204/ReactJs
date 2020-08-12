@@ -38,7 +38,6 @@ function TodoForm({ addTodo }) {
 }
 
 
-
 // functional component for applying reat hooks :
 function App() {
 
